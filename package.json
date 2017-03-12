@@ -1,0 +1,25 @@
+{
+  "name": "tecs",
+  "version": "1.0.0",
+  "description": "Project code for The Elements of Computing Systems (TECS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davistrent/TECS.git"
+  },
+  "author": "Davis G. Trent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davistrent/TECS/issues"
+  },
+  "homepage": "https://github.com/davistrent/TECS#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.17.1"
+  }
+}
